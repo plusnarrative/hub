@@ -38,3 +38,6 @@ Anyone can and should contribute to the hub. There are only a few formatting rul
 7. Then the actual command/snippet
 8. Finally end with a horizontal rule
 9. Please make sure any code is formatted using backticks
+
+Markdown Cheatsheet:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
