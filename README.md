@@ -6,13 +6,13 @@ The Hub is a place where our development team keeps commands, scripts and snippe
 
 ## Index
 
-* [git](https://bitbucket.org/plusnarrativeteam/hub/src/master/git/)
-    * [branching](https://bitbucket.org/plusnarrativeteam/hub/src/master/git/branching.md)
-    * [staging](https://bitbucket.org/plusnarrativeteam/hub/src/master/git/staging.md)
-* [laravel](https://bitbucket.org/plusnarrativeteam/hub/src/master/laravel/)
-    * [composer](https://bitbucket.org/plusnarrativeteam/hub/src/master/laravel/composer.md)
+* [git](https://github.com/plusnarrative/hub/tree/master/git/)
+    * [branching](https://github.com/plusnarrative/hub/blob/master/git/branching.md)
+    * [staging](https://github.com/plusnarrative/hub/blob/master/git/staging.md)
+* [laravel](https://github.com/plusnarrative/hub/tree/master/laravel/)
+    * [composer](https://github.com/plusnarrative/hub/blob/master/laravel/composer.md)
 * [linux]()
-    * [services]()
+    * [services](https://github.com/plusnarrative/hub/blob/master/linux/services.md)
 
 ---
 
